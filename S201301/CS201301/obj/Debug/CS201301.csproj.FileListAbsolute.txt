@@ -1,0 +1,176 @@
+D:\me\S201301\CS201301\obj\Debug\ResolveAssemblyReference.cache
+D:\me\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\me\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.Cache
+D:\me\S201301\CS201301\bin\Debug\CS201301.pdb
+D:\me\S201301\CS201301\obj\Debug\CS201301.pdb
+D:\me\S201301\CS201301\bin\Debug\CS201301.exe
+D:\me\S201301\CS201301\obj\Debug\CS201301.exe
+D:\me\S201301\CS201301\bin\Debug\CS201301.exe.config
+D:\me\S201301\CS201301\bin\Debug\CS201301.exe.manifest
+D:\me\S201301\CS201301\bin\Debug\CS201301.application
+D:\me\S201301\CS201301\obj\Debug\CS201301.exe.manifest
+D:\me\S201301\CS201301\obj\Debug\CS201301.application
+D:\download\S201301\CS201301\bin\Debug\CS201301.exe.config
+D:\download\S201301\CS201301\obj\Debug\CS201301.exe
+D:\download\S201301\CS201301\obj\Debug\CS201301.pdb
+D:\download\S201301\CS201301\bin\Debug\CS201301.exe.manifest
+D:\download\S201301\CS201301\bin\Debug\CS201301.application
+D:\download\S201301\CS201301\bin\Debug\CS201301.exe
+D:\download\S201301\CS201301\bin\Debug\CS201301.pdb
+D:\download\S201301\CS201301\obj\Debug\ResolveAssemblyReference.cache
+D:\download\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\download\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.Cache
+D:\download\S201301\CS201301\obj\Debug\CS201301.exe.manifest
+D:\download\S201301\CS201301\obj\Debug\CS201301.application
+D:\S201301\CS201301\bin\Debug\CS201301.exe.config
+D:\S201301\CS201301\obj\Debug\CS201301.exe
+D:\S201301\CS201301\obj\Debug\CS201301.pdb
+D:\S201301\CS201301\bin\Debug\CS201301.exe.manifest
+D:\S201301\CS201301\bin\Debug\CS201301.application
+D:\S201301\CS201301\bin\Debug\CS201301.exe
+D:\S201301\CS201301\bin\Debug\CS201301.pdb
+D:\S201301\CS201301\obj\Debug\ResolveAssemblyReference.cache
+D:\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.Cache
+D:\S201301\CS201301\obj\Debug\CS201301.exe.manifest
+D:\S201301\CS201301\obj\Debug\CS201301.application
+D:\S201301\CS201301\obj\Debug\CS201301.Properties.Resources.resources
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\obj\Debug\ResolveAssemblyReference.cache
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.Cache
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\bin\Debug\条码扫描程序.exe.config
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\bin\Debug\条码扫描程序.exe.manifest
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\bin\Debug\条码扫描程序.application
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\bin\Debug\条码扫描程序.exe
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\bin\Debug\条码扫描程序.pdb
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\obj\Debug\条码扫描程序.Properties.Resources.resources
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\obj\Debug\条码扫描程序.exe.manifest
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\obj\Debug\条码扫描程序.application
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\obj\Debug\条码扫描程序.exe
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\obj\Debug\条码扫描程序.pdb
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\bin\Debug\office.dll
+D:\客户扫描程序130110_100元钱版\S201301\CS201301\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\office.dll
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.Cache
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.FrmCRScanCode.resources
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe.config
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe.manifest
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.application
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.pdb
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.Properties.Resources.resources
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.exe.manifest
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.application
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.exe
+D:\C#\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.pdb
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe.config
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.exe
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.pdb
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe.manifest
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.application
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.pdb
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\office.dll
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.FrmCRScanCode.resources
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.Properties.Resources.resources
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.Cache
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.exe.manifest
+D:\C#\链接DB配置文件版 客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.application
+D:\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe.config
+D:\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.exe
+D:\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.pdb
+D:\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe.manifest
+D:\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.application
+D:\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe
+D:\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.pdb
+D:\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\office.dll
+D:\客户扫描程序130604新增功能版\S201301\CS201301\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\ResolveAssemblyReference.cache
+D:\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.FrmCRScanCode.resources
+D:\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.Properties.Resources.resources
+D:\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.Cache
+D:\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.exe.manifest
+D:\客户扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.application
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe.config
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.exe
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.pdb
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe.manifest
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.application
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.pdb
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\bin\Debug\office.dll
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\obj\Debug\ResolveAssemblyReference.cache
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.FrmCRScanCode.resources
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.Properties.Resources.resources
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.Cache
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.exe.manifest
+D:\希哲软件作品_vs2008\扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.application
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe.config
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.exe
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.pdb
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe.manifest
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.application
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.exe
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\bin\Debug\CS201301.pdb
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\bin\Debug\office.dll
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.csprojResolveAssemblyReference.cache
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.FrmCRScanCode.resources
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.Properties.Resources.resources
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.Cache
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.exe.manifest
+D:\苏州好用软件有限公司软件作品\吉林客户-扫描程序130604新增功能版\S201301\CS201301\obj\Debug\CS201301.application
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CS201301.exe.config
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.exe
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.pdb
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CS201301.exe.manifest
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CS201301.application
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CS201301.exe
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CS201301.pdb
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\office.dll
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.csprojResolveAssemblyReference.cache
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.FrmCRScanCode.resources
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.Properties.Resources.resources
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.Cache
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.exe.manifest
+D:\苏州好用软件有限公司软件作品\客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.application
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.csprojAssemblyReference.cache
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.FrmCRScanCode.resources
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.frmScanCode.resources
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.Properties.Resources.resources
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.csproj.GenerateResource.cache
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.csproj.CoreCompileInputs.cache
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.exe
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.pdb
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.exe.manifest
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CS201301.exe.config
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CS201301.exe.manifest
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CS201301.application
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CS201301.exe
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CS201301.pdb
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CrystalDecisions.Shared.dll
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.application
+D:\苏州好用软件有限公司软件产品\不在使用或没有利益继续的软件\1.客户1_吉林客户-扫描程序130604新增功能版_20130110\S201301\CS201301\obj\Debug\CS201301.csproj.CopyComplete
